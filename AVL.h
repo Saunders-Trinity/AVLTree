@@ -3,7 +3,7 @@ using namespace std;
 #include "iostream"
 #include <regex>
 #include <climits>
-//Trinity Saunders 10787144
+
 struct TreeNode{
 public:
     // store student info, left and right children, maybe the height + constructor
