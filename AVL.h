@@ -3,6 +3,9 @@ using namespace std;
 #include "iostream"
 #include <regex>
 #include <climits>
+//if your looking at this. Dont copy this code directly, change it up -Thanks
+//this code passes all hidden and visble test cases except for Test 12: input validation - 8 digit IDs, no special characters, no duplicate IDs and Test 14: insert many, remove, removeInorder, search, printInorder, and printLevelCount (0/5)
+
 
 struct TreeNode{
 public:
